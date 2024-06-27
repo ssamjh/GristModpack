@@ -946,11 +946,6 @@ hash = "97ca0b01ac6888486402018e7c95ec3b219a89c3338a416fd25418def5f51fa1"
 metafile = true
 
 [[files]]
-file = "mods/dashloader.pw.toml"
-hash = "f9f4439a50f6de55c91eab4c2dcbe1a6c9c325a7b87d1b579c79a6098f5dedc1"
-metafile = true
-
-[[files]]
 file = "mods/detail-armor-bar.pw.toml"
 hash = "89d22d515a1b5b1349b21eaa191a00bf529acca7673ba6af27dfda0380abea2b"
 metafile = true
@@ -1141,11 +1136,6 @@ hash = "d2fb9aba12d1c0bafcde37bc71ca679d10630386b01f235ea7ed651093c2905f"
 metafile = true
 
 [[files]]
-file = "mods/jamlib.pw.toml"
-hash = "4a37864ebe44ddf66f7a127683adc76515d3dc97f8d8dba6fe362c43a1f39464"
-metafile = true
-
-[[files]]
 file = "mods/jei.pw.toml"
 hash = "6ca452362268c6ff82084e95fe8d57d8ad8257ead20b661b0ba7510e669eb69a"
 metafile = true
@@ -1163,11 +1153,6 @@ metafile = true
 [[files]]
 file = "mods/just-enough-professions-jep.pw.toml"
 hash = "878afeed5da92ecd79b16ea7c2d047e5152101a7eaad2927e6b0806768f00805"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-resources-jer.pw.toml"
-hash = "f3a2939a893321067f5700c2e25c0c48fc1f9d39dd925449865c90597d65df1b"
 metafile = true
 
 [[files]]
@@ -1296,11 +1281,6 @@ hash = "dfcf0446ce11ef9691761c4a696b7ca8763854d977c5074a56fa266d92aebd86"
 metafile = true
 
 [[files]]
-file = "mods/nullscape.pw.toml"
-hash = "e04a9cdff0e0a3d54ea0a93b71685658f04c28bba12b168bb5f63e93490d8df4"
-metafile = true
-
-[[files]]
 file = "mods/optigui.pw.toml"
 hash = "2440a2e6d0ade6bc4ca8d3677b59312734dd22106fc6fc5cbac5c24b0ba2ff05"
 metafile = true
@@ -1351,11 +1331,6 @@ hash = "5003f2c451c9459b7911ac786897eead4d74a8ebdad4741476949791b26c3caa"
 metafile = true
 
 [[files]]
-file = "mods/silk.pw.toml"
-hash = "f646ace7d1ba816e9753d98da2acb72bec0f59510ca7040709caea312e6f930b"
-metafile = true
-
-[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "708ac4fc4da8bba3f5aedcd8534bd15dee339aacbeb3f3f75b17f5a748c67679"
 metafile = true
@@ -1391,11 +1366,6 @@ hash = "841d1da4cb9da9e83b7ac7a2104af1c49f1ffa4a9ad38a4bf0d138f1dac020f4"
 metafile = true
 
 [[files]]
-file = "mods/sound-physics-remastered.pw.toml"
-hash = "575f7098b7bdda654ac1b2a4c6d3855707bbf86c86f210180fe6c1b3957c3c7d"
-metafile = true
-
-[[files]]
 file = "mods/stoneworks.pw.toml"
 hash = "a0a63344406ba71a8ac37f1b27fd1425914af104bdf4eda6d7c8d2b82250a555"
 metafile = true
@@ -1428,11 +1398,6 @@ metafile = true
 [[files]]
 file = "mods/vein-mining.pw.toml"
 hash = "766afea666dd1c0e9ef57e249aad8989420534259f01af7f8f9314839c6ddb59"
-metafile = true
-
-[[files]]
-file = "mods/veinminer.pw.toml"
-hash = "3deb723c5228a46e93163f07af28eac8463c2b7a5a3642867ca7c3579b569140"
 metafile = true
 
 [[files]]
