@@ -1,0 +1,13 @@
+name = "Grist Wonderland"
+author = "Z4npher, ssamjh"
+version = "1.2.2"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6e5535815a49a0358d458bd2d56c191a57d036c8316ec1a3d003abf3ec21154f"
+
+[versions]
+fabric = "0.15.11"
+minecraft = "1.20.1"
