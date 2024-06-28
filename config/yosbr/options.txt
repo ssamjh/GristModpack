@@ -1,6 +1,5 @@
 version:3465
 autoJump:false
-operatorItemsTab:false
 autoSuggestions:true
 chatColors:true
 chatLinks:true
