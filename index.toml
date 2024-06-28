@@ -806,6 +806,11 @@ hash = "1236eb9b45a46a30ba3ef50ff3d0ab298e08449dd232557c17194a98cea59639"
 metafile = true
 
 [[files]]
+file = "mods/betterend.pw.toml"
+hash = "bd5f853537d50e0b156f5a5cb4ca557771aa0828ccf46b22b31a3aa549d615ed"
+metafile = true
+
+[[files]]
 file = "mods/blur-fabric.pw.toml"
 hash = "d11ddfc62cd4cd8a445b65d159be15b56c1e3fb4aaa65c9cb4bc13ab784c6211"
 metafile = true
@@ -1443,11 +1448,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "b57e4566ddd1f48bd1c3a726eed113eb1777fefb7ca1936173187c3fedb94d8f"
-metafile = true
-
-[[files]]
-file = "resourcepacks/sparkles-addon-alpha-islands.pw.toml"
-hash = "dd159a501866589077463b304e55160833f77e1a09ca550e781fcc372e6e5b7b"
 metafile = true
 
 [[files]]
