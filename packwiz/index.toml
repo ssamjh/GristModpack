@@ -586,6 +586,11 @@ hash = "89d22d515a1b5b1349b21eaa191a00bf529acca7673ba6af27dfda0380abea2b"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "f6317dc039dd9efe5ef1c7b225c7a0f9a52f4ebd93a4b27726916369135f3059"
+metafile = true
+
+[[files]]
 file = "mods/dontburnmystuff.pw.toml"
 hash = "c911ff021bbe1fce9dc3b2fdf19ebc335774c046f13785d5f11ba12aacb80c89"
 metafile = true
