@@ -612,6 +612,11 @@ hash = "ae83dfcccd580352eee3cf509ace37f67f1bf0d2862d2d9c9d64d8909892d2d4"
 metafile = true
 
 [[files]]
+file = "mods/fabrishot.pw.toml"
+hash = "899685dcf62ea766b1bc17580eac543b72901fcc6e7854de9da9180b5974d460"
+metafile = true
+
+[[files]]
 file = "mods/fallingtree.pw.toml"
 hash = "a79279c798e10b673c3e7dfbe675a29e09d5709ddf38d7300356346a7d29ac13"
 metafile = true
