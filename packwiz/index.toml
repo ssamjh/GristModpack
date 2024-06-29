@@ -121,10 +121,6 @@ file = "config/yosbr/config/extremesoundmuffler.json5"
 hash = "c5fde900c78d637aad9687d4235b2ef2790ca6ccd114081876845cad582d336a"
 
 [[files]]
-file = "config/yosbr/config/fabric_loader_dependencies.json"
-hash = "e5210a18a1f67104b6eda85a9ea68f475b75a71bab9cff7cf7dbcc10f627369a"
-
-[[files]]
 file = "config/yosbr/config/fallingleaves.json"
 hash = "5ecdb13465f88d18ab11d46f1f94dfea11c6418755fb9ca6dd63ab6676e083dd"
 
@@ -163,10 +159,6 @@ hash = "07a51e1c2ba3ec348e714d369ff72b0fa17611f1918f1637c2fcdfd78f4cc380"
 [[files]]
 file = "config/yosbr/config/iris.properties"
 hash = "3f5878535aacbfea79ae6da2f9142963f5662af3141692f0ba945767c9096ce5"
-
-[[files]]
-file = "config/yosbr/config/isxander-main-menu-credits.json"
-hash = "e9c780a3548faea77d7230f83a97497cf30ae5148d1855c632310f6fb69a5cec"
 
 [[files]]
 file = "config/yosbr/config/jade/hide-blocks.json"
