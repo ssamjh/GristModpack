@@ -571,6 +571,11 @@ hash = "e563a3aade07a19a87d59aa18222f1800a8c5f71af8c37046f0ce3b8a2a7a006"
 metafile = true
 
 [[files]]
+file = "mods/cull-less-leaves.pw.toml"
+hash = "39eb9db990032d949909f079ada415ffda18b372ec5d9b23ab95652d88474131"
+metafile = true
+
+[[files]]
 file = "mods/dark-loading-screen.pw.toml"
 hash = "97ca0b01ac6888486402018e7c95ec3b219a89c3338a416fd25418def5f51fa1"
 metafile = true
