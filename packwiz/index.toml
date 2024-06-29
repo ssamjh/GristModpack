@@ -358,7 +358,7 @@ hash = "effb7c6ac73bc47de7c3dcd9f3b6b4982d4245c017f8152ee32c97424c22d932"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "dbc3c9a6ff7d5209dd6154c342c217ea27a0e9de04c831c932107e8b590fefeb"
+hash = "ec426786da2ebab5b54a2af843fc1f87dffd664a8235e287fda750f72fe70563"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -708,11 +708,6 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
 hash = "e64cad200dfc6145b9822c7d7c7a89dd040e28bd8e79d4f827c02c9c348b08df"
-metafile = true
-
-[[files]]
-file = "mods/fastquit.pw.toml"
-hash = "26b473edf76a38c7f6f883381b6a42a33eea992501f26c46bae8b6149c86e234"
 metafile = true
 
 [[files]]

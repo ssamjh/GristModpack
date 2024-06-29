@@ -6,7 +6,7 @@ gamma:1.0
 renderDistance:10
 simulationDistance:8
 particles:1
-resourcePacks:["vanilla","fabric","Moonlight Mods Dynamic Assets","file/Sparkles_1.21_v1.0.7.zip","create:legacy_copper","continuity:glass_pane_culling_fix","continuity:default","file/FreshAnimations_v1.9 (1).zip","supplementaries:darker_ropes","railways:green_signals","presencefootsteps:default_sound_pack","minecraft:supporteatinganimation","cullleaves:smartleaves","railways:legacy_palettes","elytratrims:legacy","visualoverhaul:rounddiscs","visualoverhaul:fancyfurnace","visualoverhaul:nobrewingbottles"]
+resourcePacks:["vanilla","fabric","Moonlight Mods Dynamic Assets","file/Sparkles_1.21_v1.0.7.zip","create:legacy_copper","continuity:glass_pane_culling_fix","continuity:default","supplementaries:darker_ropes","railways:green_signals","presencefootsteps:default_sound_pack","minecraft:supporteatinganimation","cullleaves:smartleaves","railways:legacy_palettes","elytratrims:legacy","railways:legacy_semaphore","file/FreshAnimations_v1.9.1.zip"]
 advancedItemTooltips:true
 pauseOnLostFocus:false
 tutorialStep:none
