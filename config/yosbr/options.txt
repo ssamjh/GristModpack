@@ -12,6 +12,8 @@ pauseOnLostFocus:false
 tutorialStep:none
 skipMultiplayerWarning:true
 joinedFirstServer:true
+narrator:0
+onboardAccessibility:false
 key_ping-wheel.key.ping-location:key.mouse.middle
 key_key.immersive_aircraft.boost:key.keyboard.left.control
 key_key.jade.config:key.keyboard.keypad.0
