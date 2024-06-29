@@ -1,0 +1,13 @@
+name = "Noble Shaders"
+filename = "Noble v1.6.7.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/sclYVqbt/versions/QAc0MeLZ/Noble%20v1.6.7.zip"
+hash-format = "sha1"
+hash = "d835d0900ca73334035673f4794fbfb9b133ad30"
+
+[update]
+[update.modrinth]
+mod-id = "sclYVqbt"
+version = "QAc0MeLZ"
