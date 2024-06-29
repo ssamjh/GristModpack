@@ -941,6 +941,11 @@ hash = "0f9916dcded3aac68d56113e9617bbe3db5ec9036bd9bba784bc40a961b0c9f0"
 metafile = true
 
 [[files]]
+file = "mods/remove-terralith-intro-message.pw.toml"
+hash = "352bbd75887df2d8c2c181255a27d6aebc78dd52ee867c85a317a4e2b83a49fd"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "4d4bcf62b73bcc53dbb6d9edfe0ed84b4ad9c267a37807c0c653486add6f89a8"
 metafile = true
