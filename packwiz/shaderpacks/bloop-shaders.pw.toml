@@ -1,13 +1,13 @@
 name = "Bloop Shaders"
-filename = "Bloop-1.1.0.zip"
+filename = "Bloop-1.2.2.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Q6RQF9Oa/versions/bJEdTAY3/Bloop-1.1.0.zip"
+url = "https://cdn.modrinth.com/data/Q6RQF9Oa/versions/Mnrcw2dP/Bloop-1.2.2.zip"
 hash-format = "sha1"
-hash = "7eb6cacdde131b50753015ff6505e37291e15d38"
+hash = "f1e0bcf9aaecc366ca1a265f6f096456ed5e2f59"
 
 [update]
 [update.modrinth]
 mod-id = "Q6RQF9Oa"
-version = "bJEdTAY3"
+version = "Mnrcw2dP"

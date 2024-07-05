@@ -367,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "b72703b1946aad223f2b3c8090173f8dd98d9af9a8f3ed3c22ed881141da880b"
+hash = "a17ad0c8eaa777a8fd9c55e522eb18c7a21eecfb31f8655d6891277e0220df60"
 metafile = true
 
 [[files]]
@@ -477,7 +477,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "a49e9f505dbbefaf8382c797b883173fd16b33f331ebda64fff0c6e465c3127b"
+hash = "dc7a1dd927927788de75b4ec7bf29b40d0d4704a13788bdfcba5d5b243d0eaa1"
 metafile = true
 
 [[files]]
@@ -512,12 +512,12 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "ad158013fd103e09cd582dd64454370666d51c777ac311bb49f495e5d41398e0"
+hash = "cbb5ef46dd5b5a364af28c745ace8ac7bca73b34d1f90654ac76166ed3bccdc5"
 metafile = true
 
 [[files]]
 file = "mods/comforts.pw.toml"
-hash = "ae3c8677a574757a519780f8c4f461763ebc19c590a42f3af0f9447bf7ef4a94"
+hash = "ca0666e9d4db7870a4087815a7557386249cad7833e5477df045e3a1423ff4ac"
 metafile = true
 
 [[files]]
@@ -607,7 +607,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "877acc5e4524e8eb6e1afe4bcdb78586ab705526c90c6b90936f5a5480034a04"
+hash = "d66ea8c1b07884fd9de62cfbd344a74760388b9d19b0d82c32557e3edb4daad9"
 metafile = true
 
 [[files]]
@@ -642,12 +642,12 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-trims.pw.toml"
-hash = "f9347289aadf66f9f6afe7784228a148af6e9fe631361e9aad6defd82f18d2f9"
+hash = "ba802fb935cd9f5e5123006cfaecc639dd65452edfa8cf6e899bbe93ccc78875"
 metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "9f17a20c117d6e3c86c6863d66dbbc7ac3a40d7be8a6340897b93fb8d47fd986"
+hash = "b00063ae4ce84453b6cb813c7aa3fee8083a1dd8d5110325409ea10e75e6c89f"
 metafile = true
 
 [[files]]
@@ -657,7 +657,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "52dba30a707ef0cb51cd30462c47980de681e071d31e376f18bc507933ee2abb"
+hash = "c34d7228915013f3946f0943079644a44f653b9a378d129d733db249a790bed0"
 metafile = true
 
 [[files]]
@@ -667,7 +667,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "8a9c5e182dc4d4792103277e2003062de2718a4167edb9082d69efcbfc19cb87"
+hash = "b596d10a9b700d570d729f2f04b892d1a7715c5af434a998dc0c15a7596b05d7"
 metafile = true
 
 [[files]]
@@ -762,7 +762,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "523659698dcfb97f79c9971a9c3ce41ba5e654d55b0464d73da01a63cd9a1824"
+hash = "31278d67704a56eb32d93c240e4bfd9822e1ab6047ee14d752953dd0c24dca95"
 metafile = true
 
 [[files]]
@@ -772,7 +772,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "268c5ed7677153bbf1bc4d37e6d5825388fa5d444c67f4b399fd4ce708b773b5"
+hash = "aac37788ac1acd537a8b5b32fc2489cddf8034f196f7f38c0755837764b4f01d"
 metafile = true
 
 [[files]]
@@ -997,7 +997,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "c3774af2e5f18da0c4cb00f95421a08bf9f0dda90a4169ce87b021d2f8d0dbce"
+hash = "245530bdbb5c4127a1286f3722778d71e478194a8dcee89388c8fd247b4a57da"
 metafile = true
 
 [[files]]
@@ -1037,7 +1037,7 @@ metafile = true
 
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
-hash = "4371fb81920fbe53fafa0eef2d5f49338e20cd137575c86185658dfa94e32ac8"
+hash = "a0de07d074c2f5d0e72f70a7b066f4d5aa2748179f05ddca2189376651c29464"
 metafile = true
 
 [[files]]
@@ -1067,7 +1067,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "086f56d0a3c8f1a7b289b9949d7de08362f717295d89f0db0d13421ec860a453"
+hash = "7850317938a0baec5c66aef8a3bb0b253221c578e29c3c0afc4a3b7f7ce62fac"
 metafile = true
 
 [[files]]
@@ -1097,7 +1097,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "0a4676b25054d0bd8cc97adc49b2fca2e4af4f2c92fc3dca484c7fea169aebff"
+hash = "256b67c869770482657d4dd31124bf705c780c5c798206af522bcd5392c7ded9"
 metafile = true
 
 [[files]]
@@ -1111,7 +1111,7 @@ hash = "5a677b7356b4cf4e173531119927b3650c245aa298a0646f68d902e2f4803598"
 
 [[files]]
 file = "shaderpacks/bloop-shaders.pw.toml"
-hash = "d4a774121a89293b651b5ed931d3d88302c7d294389e236e3f82934f268d7cc9"
+hash = "19fdca0651b19997d2e23ed047cdb9cda4d9c5f819e2ab7cff62b9272dc2c317"
 metafile = true
 
 [[files]]
@@ -1131,12 +1131,12 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/mellow.pw.toml"
-hash = "7e8ac72a048b0536c58506e67109b5ada6faaba3422cd32292481534b3fff5be"
+hash = "425df197f3ef37088fb5b0c0da9055d8ca6f7a108eb088c9e1798398f855d39b"
 metafile = true
 
 [[files]]
 file = "shaderpacks/noble.pw.toml"
-hash = "7b92f217a1913d8c03e7f7616e8049655d3e57e87c86fa5e2c790da25d21b6fb"
+hash = "cbb96db0001c4a536615d86c4a1e5e04194d9bf5307b85aca3c446df77075e6b"
 metafile = true
 
 [[files]]
