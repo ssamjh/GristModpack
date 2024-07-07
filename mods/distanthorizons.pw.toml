@@ -11,3 +11,7 @@ hash = "56117d011bc5892dea3921676d0c981d66ed83ed"
 [update.modrinth]
 mod-id = "uCdwusMi"
 version = "OwcStAhe"
+
+[option]
+optional = true
+description = "May not work on Mac, disable if you get issues."
