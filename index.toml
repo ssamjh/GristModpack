@@ -436,6 +436,11 @@ hash = "d11ddfc62cd4cd8a445b65d159be15b56c1e3fb4aaa65c9cb4bc13ab784c6211"
 metafile = true
 
 [[files]]
+file = "mods/boat-item-view.pw.toml"
+hash = "45ef79853a6e968323dadc477f2b68c046948a9e5b2445fed3ab5586598347cf"
+metafile = true
+
+[[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "c49d42cddfb05cf5e4882d5753bd98a525c9a994fda5f49651003e8266b7aa9d"
 metafile = true
@@ -602,7 +607,7 @@ metafile = true
 
 [[files]]
 file = "mods/double-doors.pw.toml"
-hash = "104c41bdffa7018ee788f6539e8f343e749a715160d6f5c3a9903c529497a6c8"
+hash = "0bc34de195717313cc7d94cc30be4219059bcf95caf37166924aefacdf2ea876"
 metafile = true
 
 [[files]]
@@ -676,6 +681,11 @@ hash = "d5dd2ff45974aaf530fb0d6233cb64c55d220a6279a438e81ee45eca320412c5"
 metafile = true
 
 [[files]]
+file = "mods/extreme_sound_muffler.pw.toml"
+hash = "f12908c5e33ffff99f95cd0de430500206591c1b68b1f099c33c6621d88e1081"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "86698b1faa9bf449eab492509239372302311092104be467108d7e05127e91f1"
 metafile = true
@@ -707,7 +717,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingtree.pw.toml"
-hash = "a79279c798e10b673c3e7dfbe675a29e09d5709ddf38d7300356346a7d29ac13"
+hash = "ebb242e321ae99b8802c08adcd82cc7fadbe89234749f5d7543264b1bc53661b"
 metafile = true
 
 [[files]]
@@ -742,7 +752,7 @@ metafile = true
 
 [[files]]
 file = "mods/harvest-with-ease.pw.toml"
-hash = "ff377dd786eb835c10435cb12bac956ed1266f842e7cc611748e051330cf1fd2"
+hash = "e515c01066af0c6273d54ea79449a99e723c460ac23a6490d7813188cbdb0b93"
 metafile = true
 
 [[files]]
@@ -767,7 +777,7 @@ metafile = true
 
 [[files]]
 file = "mods/incendium.pw.toml"
-hash = "3ca288e948a12a854c4d8e74dbf5e32302f41478b75f364709087709d66402de"
+hash = "45cbe5240c7d30d141494ff4cf3683aedfa99e3d12e55e007b6368bd258f7620"
 metafile = true
 
 [[files]]
@@ -777,7 +787,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-sorting.pw.toml"
-hash = "cacd5a91708f799da27924f237b9252d05438de1f9b4e3e978bf3894e8574df0"
+hash = "82a7c9721c81c309d3c4dc2cf93ab12e1399894d03b738782ac04b0b7c232213"
 metafile = true
 
 [[files]]
@@ -822,7 +832,7 @@ metafile = true
 
 [[files]]
 file = "mods/kleeslabs.pw.toml"
-hash = "97dde1d017b8c9385ba339ab769b85d7ec299f7c8ce5b31e5935c42f4c3eac21"
+hash = "85e5ee80b3d6911217d846c082408fdf008aaf10386032e90a9caed44c89f785"
 metafile = true
 
 [[files]]
@@ -932,7 +942,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "e7712ecf20e3c2e52da19f968762b671726222cbc4c48206231b56b6c6cd79a7"
+hash = "265cd890e280c9dfd5baae1e928282f756d1f75d3f07939909f60bf741036b52"
 metafile = true
 
 [[files]]
@@ -1012,7 +1022,7 @@ metafile = true
 
 [[files]]
 file = "mods/smarter-farmers-farmers-replant.pw.toml"
-hash = "b8bc887f9e1b8c535d924b9dc4d43025767ceba74b008a20c966358209ed0e65"
+hash = "592ea00b4a19bff7d1648826e90c0c481e3fcf66812050b3c67a25d22319b2c1"
 metafile = true
 
 [[files]]
@@ -1077,7 +1087,7 @@ metafile = true
 
 [[files]]
 file = "mods/villager-names-serilum.pw.toml"
-hash = "e667ebf76db46a08615877b7c70fbbf3ab2a505f67f9d06f71497b1efe3150c6"
+hash = "f6e68836e37fb3f9b09ccf3fae50545303e644e10a70cb4022e1486836296624"
 metafile = true
 
 [[files]]
