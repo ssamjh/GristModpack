@@ -5,3 +5,5 @@
 /README.md
 multimc/*
 pack-instance.sh
+pack-instance.toml
+*.zip
