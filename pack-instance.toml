@@ -1,0 +1,8 @@
+# URL points to a folder where the modpack files
+# are available along with the pack.toml file.
+#url = "https://example.org/my_modpack"
+# For testing locally using `packwiz serve`:
+url = "https://raw.githubusercontent.com/ssamjh/GristModpack/main/packwiz"
+
+# If set, changes the default memory allocation:
+#memory = 4096
