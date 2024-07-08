@@ -346,7 +346,7 @@ hash = "fdd1b009100e43b4b082eac53817cc7682398ca48105b1cdd318438400a44aeb"
 
 [[files]]
 file = "config/yosbr/config/xaerominimap.txt"
-hash = "0bf642ceeecb3d87dd0387ca1ad8308b3e566bab3a716303c3eb0f66da3151d8"
+hash = "0dfff48e01d7385faa97adf8023e3eec187989ba636a80da88c2ed0a8119ff00"
 
 [[files]]
 file = "config/yosbr/config/xaerominimap_entities.json"
@@ -1107,12 +1107,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "74a5d6dc2fa3494650bf951f2212c70eeb6b8d1af209b5dab4b7a8582302865c"
+hash = "5cefed621171d22a3c902aa92ce8fff2aa09410963668664651adf66f635013b"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "a66f114b66d41c0de64f6d7cb00d253b858ecb8dfef497aed5feac1a690111a2"
+hash = "a564179c06682ce17b454caf8dcb82e72c49b3eb8a6d74b5ea115aab2681635e"
 metafile = true
 
 [[files]]
