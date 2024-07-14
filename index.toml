@@ -129,6 +129,74 @@ file = "config/yosbr/config/fallingtree.json"
 hash = "922a0a06c316eb1f0aba285f5bc59f4421b51b6f861661f3cdab38bbd44e4927"
 
 [[files]]
+file = "config/yosbr/config/fancymenu/assets/minecraft_title.png"
+hash = "85111835fa7626bc12ed918c3d3d9b3f1d5fcba35c6694b45de3254aafd87a7f"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/customizablemenus.txt"
+hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/customization/title_screen_layout.txt"
+hash = "bad2533293ae10530dbd58928d5b5fd7ec6559de870b1994ca6568ee91a8e947"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "9831416e8b6f5814d7901cbf165bf13447bc9b13f84d9c7a9220b4631e0248f6"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/options.txt"
+hash = "9af61e24df49630bcbc18eb64e5ad621a84d106ce5209561d1b302dfe22f5714"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/panoramas/server/panorama/panorama_0.png"
+hash = "9c54fa763c38fc7b2d89f601d24bfa055dd13eb0c544edd423780c2860772366"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/panoramas/server/panorama/panorama_1.png"
+hash = "f70878b278908e16b221f42b59f4ba1b93c60354d5f3626355f79ee5d80e8cbd"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/panoramas/server/panorama/panorama_2.png"
+hash = "da26e7cdad376211e138f88aad1929fa41bac3bc1c6d186b8fb1318192c1cf16"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/panoramas/server/panorama/panorama_3.png"
+hash = "79c0ec2d4963902faa99880d34ce3666635dd3232d951eb08c7ea369b09632b6"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/panoramas/server/panorama/panorama_4.png"
+hash = "53463d8fff40660eb1b8c970c19362570c3ec50c1a25634f29e0b8eabc2f0e33"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/panoramas/server/panorama/panorama_5.png"
+hash = "196990e8b0c270996ead80e5e038243e20936cdc116352298e00c04f5899f0b8"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/panoramas/server/properties.txt"
+hash = "8fd6fd350bee872fcabe368944d9e8fb9ae354fd01dd5bfaeb522766a7491951"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/ui_themes/dark.json"
+hash = "43ac9bee88f1a4c9b66fee0d4b6fcec14a52feab46bf803928aabed96f510cc9"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/ui_themes/light.json"
+hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
+
+[[files]]
+file = "config/yosbr/config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+
+[[files]]
 file = "config/yosbr/config/farmersdelight-client.toml"
 hash = "e5f8f5743c23e6c1e569070d720f91e66495e8da03550a0d37d9a07c6d543014"
 
@@ -721,6 +789,11 @@ hash = "ebb242e321ae99b8802c08adcd82cc7fadbe89234749f5d7543264b1bc53661b"
 metafile = true
 
 [[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "f08086c797096ec7cea728330085f68f4d7f505938855a9b06f3c4c64a7bf6af"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
 hash = "e64cad200dfc6145b9822c7d7c7a89dd040e28bd8e79d4f827c02c9c348b08df"
 metafile = true
@@ -836,6 +909,11 @@ hash = "85e5ee80b3d6911217d846c082408fdf008aaf10386032e90a9caed44c89f785"
 metafile = true
 
 [[files]]
+file = "mods/konkrete.pw.toml"
+hash = "b0487d5437a636e61b353c70699994de1fd1aca903853d9366860cbbcfca5fd2"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "a626674fc1092afe5ccc6cbf4856c09119e42395494f1c3862eed2ab17da0221"
 metafile = true
@@ -858,6 +936,11 @@ metafile = true
 [[files]]
 file = "mods/man-of-many-planes.pw.toml"
 hash = "3b92cebe97fe4c46fad28178fc1027c42ddbaf13ad2b541aa9b7516a4aa45fc1"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "57dc365bf7be6358709c450e95e12cd4f48b84d7ea146e8bb7cf5ced1d0abafb"
 metafile = true
 
 [[files]]
@@ -993,11 +1076,6 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "d812e151028b7231d0e6bbd28a7b03a2b0e912c7052c0565e2f47e740717c298"
-metafile = true
-
-[[files]]
-file = "mods/rrls.pw.toml"
-hash = "062e145a4c182959dc44f1fe531514191692ed6088ee5b307143a81ec39d9c70"
 metafile = true
 
 [[files]]
