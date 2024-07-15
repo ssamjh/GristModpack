@@ -484,11 +484,6 @@ hash = "d71225c33f2287ca8c0f61483a8d9da35c80a69cb14f252dceaf0e504435bb7f"
 metafile = true
 
 [[files]]
-file = "mods/better-frost-walker.pw.toml"
-hash = "976577d87d87b7a00f3d2f2b25dfa4b632424dedd7af28811fc3fe3c30632652"
-metafile = true
-
-[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "961a423cc427d4c785354239e8e7b251b5575756b1cf85dd1bc85011b47f0fbf"
 metafile = true
