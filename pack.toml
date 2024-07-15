@@ -1,12 +1,12 @@
 name = "Grist Wonderland"
 author = "Z4npher, ssamjh"
-version = "1.3.5"
+version = "1.3.6"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c022895d8849587b326a86312932e18be3572b22fc60456de03a35b066ac121d"
+hash = "d671db9bac5e736043bffd1df12f98ff0d889b59b067e5b8d77410680818039c"
 
 [versions]
 fabric = "0.15.11"
