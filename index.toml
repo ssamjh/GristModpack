@@ -955,7 +955,7 @@ metafile = true
 
 [[files]]
 file = "mods/melody.pw.toml"
-hash = "57dc365bf7be6358709c450e95e12cd4f48b84d7ea146e8bb7cf5ced1d0abafb"
+hash = "e1268d8b92c7a8b58dd205b613dedfc860af686190b15d531fe2552af449485f"
 metafile = true
 
 [[files]]
