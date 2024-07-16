@@ -413,6 +413,14 @@ file = "config/yosbr/config/visualoverhaul.json"
 hash = "fdd1b009100e43b4b082eac53817cc7682398ca48105b1cdd318438400a44aeb"
 
 [[files]]
+file = "config/yosbr/config/voicechat/voicechat-client.properties"
+hash = "96d7cbd1ad5dd43e6982c791ec76433c819cdc490834822fbc96f9f9fe061e55"
+
+[[files]]
+file = "config/yosbr/config/voicechat/voicechat-server.properties"
+hash = "43c53d3db797cc4178ab8892bea15a1dba1b9645195e18f570eaca7f2036de79"
+
+[[files]]
 file = "config/yosbr/config/xaerominimap.txt"
 hash = "0dfff48e01d7385faa97adf8023e3eec187989ba636a80da88c2ed0a8119ff00"
 
@@ -426,7 +434,7 @@ hash = "effb7c6ac73bc47de7c3dcd9f3b6b4982d4245c017f8152ee32c97424c22d932"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "ec426786da2ebab5b54a2af843fc1f87dffd664a8235e287fda750f72fe70563"
+hash = "7ad52b916fd9c42f01e98be59d5108914c066b4e61c002393d17296d0d8cb9ea"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -569,6 +577,11 @@ hash = "6211df918f9c91638c0e6e56361192afcd60d336b95687e4766540f9d2b6f118"
 metafile = true
 
 [[files]]
+file = "mods/cicada.pw.toml"
+hash = "9429467855b96d1437d6335f45282625c4af182ec760a876f97270d0f2397f5a"
+metafile = true
+
+[[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "2cf2d6c7683cbaa8d4d91374d5a92e6166176aefe5e0d7a0a2714c9321f8add0"
 metafile = true
@@ -604,6 +617,11 @@ hash = "acbde04e67f2f0970a6b81e3c818a5f8ed3eceab4f3a04330d80c70c24d03afe"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "0360f47c1afd7385518db9df5d809344e1bcdc163e940a8744ee61b6d745b6ce"
+metafile = true
+
+[[files]]
 file = "mods/crate-delight.pw.toml"
 hash = "98711cfbb6a91b0bd526725efa98335e281b656c58040f72d3e0dc322a112283"
 metafile = true
@@ -621,6 +639,11 @@ metafile = true
 [[files]]
 file = "mods/create-goggles.pw.toml"
 hash = "63181126ca8ff3989e9a0e91ce01121545e26e4a9ca8cbe4e6681395c92b1edd"
+metafile = true
+
+[[files]]
+file = "mods/create-power-loader-fabric.pw.toml"
+hash = "819147b9b5a29485a20add7bb2453d3d0100dfa2df7466d9474b92c8122120b9"
 metafile = true
 
 [[files]]
@@ -811,6 +834,11 @@ metafile = true
 [[files]]
 file = "mods/flighthelper.pw.toml"
 hash = "5dddba39d3e8e67f178e381144b5624b23a991e46a75ab3bff28035cc5533d9d"
+metafile = true
+
+[[files]]
+file = "mods/followers-teleport-too.pw.toml"
+hash = "a1a289bdeb49c9cfa77321e043d15e04336eba0d5873b292eaa35771dfec2aa8"
 metafile = true
 
 [[files]]
@@ -1094,13 +1122,28 @@ hash = "d812e151028b7231d0e6bbd28a7b03a2b0e912c7052c0565e2f47e740717c298"
 metafile = true
 
 [[files]]
+file = "mods/searchables.pw.toml"
+hash = "5d694c42e5e6759807f1f5756de3dd24f098517143b8d8aac5721b7d5cf502b1"
+metafile = true
+
+[[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
 hash = "99631b00aaa1722d583630c4b5585e30f908501b5c2f644ec3241e987dcb5a61"
 metafile = true
 
 [[files]]
+file = "mods/show-me-your-skin.pw.toml"
+hash = "cc0084cb249ed821c2489a35d9a4321cf2b98c4e7320d45fb4875a63d892b76a"
+metafile = true
+
+[[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "5003f2c451c9459b7911ac786897eead4d74a8ebdad4741476949791b26c3caa"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "1802c094c28600a6f3fb498cbcfeeca6f3b6b7ade5e5a9e997d2ae9362545ece"
 metafile = true
 
 [[files]]
