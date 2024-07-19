@@ -345,6 +345,14 @@ file = "config/yosbr/config/railways-server.toml"
 hash = "5ef641c5a7ba074a7346767d7dede8604d296bbdf486ee1c227bd7ec6880c309"
 
 [[files]]
+file = "config/yosbr/config/remote_player_waypoints_for_xaero/friends.json5"
+hash = "d035bf2bd85727f1b20388b919ffe022cf453087e6d382c5b00bd9e704ccc49c"
+
+[[files]]
+file = "config/yosbr/config/remote_player_waypoints_for_xaero/general.json5"
+hash = "e4c0169f0877aff8210c6a5b7d6e12b1c402b46bbc903f97dbe15d7c22f64369"
+
+[[files]]
 file = "config/yosbr/config/resourceful-config-web.json"
 hash = "3ee1f9f9c7d55e5ad341983e6bd35cd0085af7235a6f0757e83ca0b2aff02b49"
 
@@ -1107,6 +1115,11 @@ hash = "0f9916dcded3aac68d56113e9617bbe3db5ec9036bd9bba784bc40a961b0c9f0"
 metafile = true
 
 [[files]]
+file = "mods/remote-player-waypoints-for-xaeros-map.pw.toml"
+hash = "a7339c9993e2a2e03fef69a20bbf419fe7e9073d75171c695795943f95627840"
+metafile = true
+
+[[files]]
 file = "mods/remove-terralith-intro-message.pw.toml"
 hash = "352bbd75887df2d8c2c181255a27d6aebc78dd52ee867c85a317a4e2b83a49fd"
 metafile = true
@@ -1182,6 +1195,11 @@ hash = "841d1da4cb9da9e83b7ac7a2104af1c49f1ffa4a9ad38a4bf0d138f1dac020f4"
 metafile = true
 
 [[files]]
+file = "mods/squaremap.pw.toml"
+hash = "a3ea1a3fe32f94374995653fe976623e5b3fcea1a32cce42837b5303aa42897d"
+metafile = true
+
+[[files]]
 file = "mods/stoneworks.pw.toml"
 hash = "a0a63344406ba71a8ac37f1b27fd1425914af104bdf4eda6d7c8d2b82250a555"
 metafile = true
@@ -1239,6 +1257,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "7850317938a0baec5c66aef8a3bb0b253221c578e29c3c0afc4a3b7f7ce62fac"
+metafile = true
+
+[[files]]
+file = "mods/xaeroplus.pw.toml"
+hash = "af9abae5ee28ff0418c828b269a6283b89509b80746d93acedb520f06b0ff9d4"
 metafile = true
 
 [[files]]
